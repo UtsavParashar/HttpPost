@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HttpPost</string>
+    
+    <!-- HttpPostActivity -->
+    <string name="email_edit_text">Enter your email</string>
+    <string name="submit_button">Submit</string>
+    
+    <string name="toast_display_email_message">Enter email address</string>
+    
+    <string name="action_settings">Settings</string>
+
+</resources>
